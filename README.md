@@ -8,3 +8,4 @@
 
 * [API Blueprint](https://apiblueprint.org/) - gives you awesome tools for your whole API lifecycle.
 * [Swagger](http://swagger.io/) - simple and powerful interface to your API. Lots of automation, API tooling, and even client SDK generation and discoverability.
+* [docsify](https://docsify.js.org) - A magical documentation site generator.
